@@ -1,0 +1,15 @@
+# Media files
+*.kra
+
+# Cache files
+*.*~
+
+# Ruby bundle directories and files
+_site/
+
+# VitePress
+docs/.vitepress/dist
+docs/.vitepress/cache
+
+# Node.js
+node_modules/
