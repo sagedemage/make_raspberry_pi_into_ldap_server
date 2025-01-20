@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Make a Raspberry Pi Into a LDAP Server",
   description: "A guide to make a Raspberry Pi into a LDAP server.",
-  base: "/make_raspberry_pi_into_ldap_serve/",
+  base: "/make_raspberry_pi_into_ldap_server/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
