@@ -12,7 +12,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/sagedemage/make_raspberry_pi_into_ldap_serve' }
+      { icon: 'github', link: 'https://github.com/sagedemage/make_raspberry_pi_into_ldap_server' }
     ]
   }
 })
