@@ -111,7 +111,7 @@ To set up authentication for Apache Directory Studio, you must set the **Bind DN
 
 1. Set the **Bind DN or user** as:
     ```
-    cn=admin,dc-example,dc=com
+    cn=admin,dc=example,dc=com
     ```
 
 ![Set up authentication for Apache Directory Studio](images/6_authentication_apache_directory_studio.png)
