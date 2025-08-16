@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Make a Raspberry Pi Into a LDAP Server",
-  description: "A guide to make a Raspberry Pi into a LDAP server.",
-  base: "/make_raspberry_pi_into_ldap_server/",
+  title: "Setup a LDAP Server (OpenLDAP)",
+  description: "A guide to setup a LDAP server on a virtual machine using VirtualBox.",
+  base: "/setup_ldap_server/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -12,7 +12,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/sagedemage/make_raspberry_pi_into_ldap_server' }
+      { icon: 'github', link: 'https://github.com/sagedemage/setup_ldap_server' }
     ]
   }
 })
