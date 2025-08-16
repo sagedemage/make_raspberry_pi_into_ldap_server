@@ -1,5 +1,7 @@
-# Make a Raspberry Pi Into a LDAP Server
-An article to make a Raspberry Pi into a LDAP server.
+# Setup a LDAP Server (OpenLDAP)
+An article to setup a LDAP server on a virtual machine using VirtualBox.
+
+Read the article at [Setup a LDAP Server (OpenLDAP)](./docs/index.md).
 
 ## Setup
 
