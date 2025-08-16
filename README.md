@@ -1,7 +1,7 @@
 # Setup a LDAP Server (OpenLDAP)
 A guide to setup a LDAP server on a virtual machine using VirtualBox.
 
-Read the article at [Setup a LDAP Server (OpenLDAP)](./docs/index.md).
+Read the guide at [Setup a LDAP Server (OpenLDAP)](./docs/index.md).
 
 ## Setup
 
